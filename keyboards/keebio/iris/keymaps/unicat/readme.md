@@ -1,5 +1,3 @@
-![Clueboard Layout Image](https://i.imgur.com/7Capi8W.png)
-
 # Mystical Unicat's personal layout and animations
 
 Base layer moves the gui key to the right, alt on left. for gaming, some games use alt, gui key is a mess on windows might as well move it away.
